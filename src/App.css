@@ -52,6 +52,15 @@
     
 }
 
+#search {
+    padding: 5px;
+    cursor: pointer;
+}
+
+#dark_btn {
+    cursor: pointer;
+}
+
 .search input {
     margin-left: 10px;
     width: 100%;
@@ -240,7 +249,9 @@
   background-color: #1E2A47;
 }
 
-
+.App.dark #search_container input {
+    color: white;
+}
 
 
 

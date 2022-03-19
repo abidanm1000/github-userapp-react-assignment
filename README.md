@@ -1,4 +1,4 @@
-https://app.netlify.com/sites/relaxed-babbage-f85d26/overview
+https://relaxed-babbage-f85d26.netlify.app/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
